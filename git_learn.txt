@@ -1,0 +1,3 @@
+$git init 
+
+Creates a new sub-directory .git
